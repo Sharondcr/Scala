@@ -1,0 +1,6 @@
+Problem Statement 4: File Processing
+Write a Scala program to read a text file, count the occurrences of each word, and display the top N most
+frequent words.
+ Create a method wordCount(filePath: String, topN: Int): List[(String, Int)] that reads a text file and
+returns a list of tuples containing the top N most frequent words and their counts.
+ Program ask user to enter N top most frequent words and show N most frequent words as output.
